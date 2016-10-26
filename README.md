@@ -15,18 +15,18 @@ import ReactInfoCard, { Component } from 'react-info-card';
 <ReactInfoCard>Example</ReactInfoCard>
 
 ## Configurable Props
-buttonBackground: Link Button background color
-buttonLabelText: Link button text
-buttonTextColor: Link button text color
-buttonUrl: Link button URL
-category: Label text,
-componentBackgroundImage: Component background image
-labelBackground: Label background color
-labelTextColor: Label text color
-textContent: Component text content
-title: Component text title
+1. buttonBackground: Link Button background color
+2. buttonLabelText: Link button text
+3. buttonTextColor: Link button text color
+4. buttonUrl: Link button URL
+5. category: Label text,
+6. componentBackgroundImage: Component background image
+7. labelBackground: Label background color
+8. labelTextColor: Label text color
+9. textContent: Component text content
+10. title: Component text title
 
 
 ## Versions
-1.0.0 First Version
-1.0.2 Git publish process fixed
+- 1.0.0 First Version
+- 1.0.2 Git publish process fixed
